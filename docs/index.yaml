@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-04-01T17:55:12.487756961-03:00"
+entries:
+  my-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-01T18:03:44.227778745-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 6b284abebb3e9141264bfd0fc50d130384e8a28097eec681cfa3b5cf307ea701
+    name: my-chart
+    type: application
+    urls:
+    - https://dyego-barros.github.io/my-chart/my-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-01T18:03:44.227404894-03:00"
